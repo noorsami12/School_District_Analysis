@@ -7,9 +7,9 @@ The analysis looks at the data of schools across the district in terms of their 
 ### District Summary
 Prior to removing Thomas High School’s 9th grade reading and math scores, the district summary showed an overall passing percentage of 65%. The new district summary now shows an overall passing percentage of 64.9, a slight decrease. The percentage of students who passed reading and math also decreased by 0.1%, as did the average math score. 
 
-![original district summary]([Resources/original district summary.png](https://github.com/noorsami12/School_District_Analysis/blob/01fa48d4507f20a88397dfb13e1194f70b99887a/Resources/original%20district%20summary.png))
+![original_district_summary]([Resources/original district summary.png](https://github.com/noorsami12/School_District_Analysis/blob/01fa48d4507f20a88397dfb13e1194f70b99887a/Resources/original%20district%20summary.png))
 
-![updated district summary](Resources/updated district summary.png)
+![updated_district_summary](Resources/updated district summary.png)
 
 ### School Summary
 The top 5 schools did not change after removing Thomas High School’s 9th grade scores, nor did the bottom 5 schools. Although Thomas High School’s overall passing percentage dropped from 90.94 to 90.63, it remained in second place, above the 90.59 of the third school. 
